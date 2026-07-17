@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Svetlana Pon//Wedding Reminder//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:alexander-eva-wedding-20261122@ourinvite.wedding
+DTSTAMP:20260717T000000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T200000Z
+SUMMARY:Свадьба Александра и Евы
+DESCRIPTION:С нетерпением ждём вас на нашем свадебном дне.
+LOCATION:Wedding Day
+END:VEVENT
+END:VCALENDAR
